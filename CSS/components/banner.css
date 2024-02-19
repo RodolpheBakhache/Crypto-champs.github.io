@@ -1,0 +1,9 @@
+.banner {
+  background-image: url('https://res.coinpaper.com/coinpaper/f_webp,c_limit,w_1080,q_auto:good/cp6225_crypto_gambling_flying_coins_68dceda2_85c1_40fd_9e85_fa90217ab34b_a183fd17c2');
+  background-size: cover;
+  background-position: center;
+  padding: 50px 0;
+  color: white;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
+  position: relative;
+}
